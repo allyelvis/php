@@ -13,7 +13,7 @@ class HotelController {
 
     public function index() {
         $data = $this->model->getHotels();
-        $this->view->render('hotel_list.php', $data);
+        $this->view->render('../views/hotel_list.php', $data);
     }
 }
 ?>

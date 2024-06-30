@@ -13,7 +13,7 @@ class BillingController {
 
     public function index() {
         $data = $this->model->getBills();
-        $this->view->render('bill_list.php', $data);
+        $this->view->render('../views/bill_list.php', $data);
     }
 }
 ?>

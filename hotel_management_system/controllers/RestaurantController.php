@@ -13,7 +13,7 @@ class RestaurantController {
 
     public function index() {
         $data = $this->model->getMenuItems();
-        $this->view->render('restaurant_menu.php', $data);
+        $this->view->render('../views/restaurant_menu.php', $data);
     }
 }
 ?>
