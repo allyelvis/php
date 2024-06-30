@@ -1,0 +1,8 @@
+{
+    "name": "your-name/hotel-management-system",
+    "require": {
+        "php": "^8.2",
+        "ext-mysqli": "*",
+        "ext-json": "*"
+    }
+}
