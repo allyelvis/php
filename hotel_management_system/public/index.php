@@ -1,3 +1,7 @@
 <?php
-echo "Welcome to the Hotel Management System!";
+require_once '../config/config.php';
+require_once '../controllers/HotelController.php';
+
+$controller = new HotelController();
+$controller->index();
 ?>
