@@ -3,7 +3,7 @@
         'name' => 'your-name/hotel-management-system',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'e0809056947f3bf37c4a8dd47a0200effc93e023',
+        'reference' => '978d9af93a031dcb5844cba65a30cc7fcf9d0c9d',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'your-name/hotel-management-system' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'e0809056947f3bf37c4a8dd47a0200effc93e023',
+            'reference' => '978d9af93a031dcb5844cba65a30cc7fcf9d0c9d',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
