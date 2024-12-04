@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "cli": "^1.0.1",
-    "heroku": "^8.11.5"
+    "heroku": "^9.5.0"
   }
 }
